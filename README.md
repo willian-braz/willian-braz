@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Willian Braz 😁
+## Bem-vindo(a) ao perfil do willian-braz 😁
 
  <div>
    <a href="https://github.com/willian-braz">
