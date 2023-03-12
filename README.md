@@ -1,4 +1,4 @@
-<h1>Olá! Me chamo Willian Braz.</h1>
+<h1>Hello! My name is Willian Braz.</h1>
 
  <div align="center">
    <a href="https://github.com/willian-braz">
@@ -15,7 +15,7 @@
  
  <br>
  
-  <h3 align="center">Para mais informações me segue nas redes abaixo!</h3>
+  <h3 align="center">For more information follow me on the networks below!</h3>
  
 <div align="center">
   <a href="https://instagram.com/williann.bras" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
